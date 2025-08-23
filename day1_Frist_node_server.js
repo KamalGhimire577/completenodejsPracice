@@ -15,9 +15,9 @@ const server = http.createServer((req,res)=>{
 // console.log(req)
 })
 const port=3000;
-server.listen((port,()=>{
+server.listen(port,()=>{
   console.log(`server running on address hthp://localhost:${port}`)
-}));
+});
 
 
 // listen also take callback function so we give arrow funtion to listen request from the port varible port most me 2000-9999 is good 
