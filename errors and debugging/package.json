@@ -1,0 +1,17 @@
+{
+  "name": "kktheboos",
+  "version": "1.0.0",
+  "description": "hi this is releted only for error and debugging",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "kktheboos"
+  ],
+  "author": "kk",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
